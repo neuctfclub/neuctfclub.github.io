@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GM on NEU CTF Club</title>
+    <link>https://neuctfclub.github.io/tags/gm/</link>
+    <description>Recent content in GM on NEU CTF Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 CTF Club</copyright>
+    <lastBuildDate>Wed, 15 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/tags/gm/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GM #8 Wireshark Pt. 2</title>
+      <link>https://neuctfclub.github.io/events/2023_gm8/</link>
+      <pubDate>Wed, 15 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_gm8/</guid>
+      <description>Let’s get our hands deep into Wireshark – your “gateway” to understanding the intricacies of digital communication and much more. This is an advanced workshop but any and all questions are welcome!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_gm8/featured.png" />
+    </item>
+    
+    <item>
+      <title>GM #7: Kali Connect</title>
+      <link>https://neuctfclub.github.io/events/2023_gm7/</link>
+      <pubDate>Thu, 09 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_gm7/</guid>
+      <description>Kali Linux, the de facto offensive security distribution, is a must-have for cybersecurity enthusiasts and we’re bringing it to you! Don’t worry about downloading anything beforehand, just bring yourself and your computer and we will take care of the rest.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_gm7/featured.png" />
+    </item>
+    
+    <item>
+      <title>GM #6: Tricks and Treats</title>
+      <link>https://neuctfclub.github.io/events/2023_gm6/</link>
+      <pubDate>Thu, 02 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_gm6/</guid>
+      <description>We are nearing the end of Cybersecurity Awareness Month, that means we gotta finish strong! We had members saying the last CTF was too easy so we had to kick it up a notch.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_gm6/featured.png" />
+    </item>
+    
+    <item>
+      <title>GM #5: Burp Suite Bash</title>
+      <link>https://neuctfclub.github.io/events/2023_gm5/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_gm5/</guid>
+      <description>Want to learn how to use this web pentesting tool and immediately apply your skills to solve CTF challenges? Come join us at our next GM with Burp Suite Community Edition installed!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_gm5/featured.png" />
+    </item>
+    
+    <item>
+      <title>GM#4: Around the World</title>
+      <link>https://neuctfclub.github.io/events/2023_gm4/</link>
+      <pubDate>Thu, 12 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_gm4/</guid>
+      <description>Come explore a variety of CTF topics ranging from steganography to web exploitation and much more. This meeting is dedicated for you all to strengthen your weakest areas of expertise and sharpen your CTF experience through reinforcement.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_gm4/featured.png" />
+    </item>
+    
+    <item>
+      <title>GM #3: Cryptotrail</title>
+      <link>https://neuctfclub.github.io/events/2023_gm3/</link>
+      <pubDate>Thu, 05 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_gm3/</guid>
+      <description>Happy Cybersecurity Awareness Month hackers!
+This means more challenges to conquer! Buckle up for this upcoming GM, whether you’ll be tackling it individually or via teams, you will be going head-to-head in a treasure hunt.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_gm3/featured.png" />
+    </item>
+    
+    <item>
+      <title>GM #2: Walkthrough</title>
+      <link>https://neuctfclub.github.io/events/2023_gm2/</link>
+      <pubDate>Thu, 28 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_gm2/</guid>
+      <description>This week we’ll be going over the challenges you loved from our Kickoff CTF competition. Bring all your burning questions and hopefully get inspired!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_gm2/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

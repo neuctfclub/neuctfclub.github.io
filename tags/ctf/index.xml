@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CTF on NEU CTF Club</title>
+    <link>https://neuctfclub.github.io/tags/ctf/</link>
+    <description>Recent content in CTF on NEU CTF Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2023 CTF Club</copyright>
+    <lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sub-Z3r0 CTF</title>
+      <link>https://neuctfclub.github.io/events/2023_subzero/</link>
+      <pubDate>Sat, 02 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_subzero/</guid>
+      <description>NU Security, NU WiCYS and NU CTF are so excited to announce the biggest student-led security event at Northeastern! We present to you: The SUB-Z3R0 CTF! This CTF is open to all undergraduate students who are interested, regardless of their experience level.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_subzero/featured.png" />
+    </item>
+    
+    <item>
+      <title>Sp00ky Scary CTF</title>
+      <link>https://neuctfclub.github.io/events/2023_spooky/</link>
+      <pubDate>Thu, 26 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_spooky/</guid>
+      <description>Get ready for a spooktacular challenge!
+It is Cybersecurity Awareness Month, this means more challenges to break into!
+What&amp;rsquo;s in store for you:
+Creepy cryptographic puzzles Haunted digital mazes Witchy riddles to solve Frighteningly fun challenges Prizes await the top 3 rankers, so assemble your team (max of 3) or go solo, and let the cryptic adventure begin!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_spooky/featured.png" />
+    </item>
+    
+    <item>
+      <title>Kickoff CTF Competition</title>
+      <link>https://neuctfclub.github.io/events/2023_kickoff/</link>
+      <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2023_kickoff/</guid>
+      <description>Thank you all for participating in our first ever CTF competition— it was special for us to see you all wracking your brain and enjoying the challenges we made.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2023_kickoff/featured.png" />
+    </item>
+    
+  </channel>
+</rss>
