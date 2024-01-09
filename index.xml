@@ -6,8 +6,28 @@
     <description>Recent content in Welcome to CTFC!  on NEU CTF Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2023 CTF Club</copyright>
-    <lastBuildDate>Sat, 02 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 CTF Club</copyright>
+    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Month[0] CTF</title>
+      <link>https://neuctfclub.github.io/events/2024_month0/</link>
+      <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2024_month0/</guid>
+      <description>Our first CTF Competition of the semester will be January 31st! Come celebrate completing the first month of 2024 with us by solving challenges and possibly winning Amazon gift cards!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2024_month0/featured.png" />
+    </item>
+    
+    <item>
+      <title>GM#1: Murder, Mystery, &amp; CTFs</title>
+      <link>https://neuctfclub.github.io/events/2024_gm1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2024_gm1/</guid>
+      <description>Hi hackers! We’re back and better than ever! Join us this Wednesday 1/10 for a Clue inspired murder mystery challenge. We need your help in catching the killer here on NEU&amp;rsquo;s campus.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2024_gm1/featured.png" />
+    </item>
+    
     <item>
       <title>Sub-Z3r0 CTF</title>
       <link>https://neuctfclub.github.io/events/2023_subzero/</link>

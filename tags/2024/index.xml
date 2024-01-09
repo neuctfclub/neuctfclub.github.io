@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2024 on NEU CTF Club</title>
+    <link>https://neuctfclub.github.io/tags/2024/</link>
+    <description>Recent content in 2024 on NEU CTF Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 CTF Club</copyright>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/tags/2024/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GM#1: Murder, Mystery, &amp; CTFs</title>
+      <link>https://neuctfclub.github.io/events/2024_gm1/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2024_gm1/</guid>
+      <description>Hi hackers! We’re back and better than ever! Join us this Wednesday 1/10 for a Clue inspired murder mystery challenge. We need your help in catching the killer here on NEU&amp;rsquo;s campus.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2024_gm1/featured.png" />
+    </item>
+    
+  </channel>
+</rss>

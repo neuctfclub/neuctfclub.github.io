@@ -4,43 +4,61 @@
 
   <url>
     <loc>https://neuctfclub.github.io/tags/2023/</loc>
-    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://neuctfclub.github.io/tags/ctf/</loc>
-    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://neuctfclub.github.io/events/</loc>
-    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/events/2024_month0/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/tags/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/</loc>
+    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/tags/2024/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/tags/gm/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/events/2024_gm1/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://neuctfclub.github.io/events/2023_subzero/</loc>
     <lastmod>2023-12-02T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neuctfclub.github.io/tags/</loc>
-    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neuctfclub.github.io/</loc>
-    <lastmod>2023-12-02T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neuctfclub.github.io/tags/gm/</loc>
-    <lastmod>2023-11-15T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
