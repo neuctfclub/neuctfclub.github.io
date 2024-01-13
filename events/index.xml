@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 CTF Club</copyright>
-    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/events/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GM#2: Crypto Trail Pt. 2</title>
+      <link>https://neuctfclub.github.io/events/2024_gm2/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/events/2024_gm2/</guid>
+      <description>Hi hackers! Join us on Monday 1/22 at 6pm for a part two to the crypto trail series!! Solve challenges that will lead you down a path, and you just mind find where X marks the spot to win prizes!</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://neuctfclub.github.io/events/2024_gm2/featured.png" />
+    </item>
+    
     <item>
       <title>Month[0] CTF</title>
       <link>https://neuctfclub.github.io/events/2024_month0/</link>

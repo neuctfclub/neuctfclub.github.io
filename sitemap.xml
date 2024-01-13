@@ -3,6 +3,42 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>https://neuctfclub.github.io/tags/2024/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/events/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/tags/gm/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/events/2024_gm2/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/tags/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://neuctfclub.github.io/</loc>
+    <lastmod>2024-01-10T00:00:00+00:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>https://neuctfclub.github.io/tags/2023/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
@@ -15,38 +51,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://neuctfclub.github.io/events/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://neuctfclub.github.io/events/2024_month0/</loc>
     <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neuctfclub.github.io/tags/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neuctfclub.github.io/</loc>
-    <lastmod>2024-01-02T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neuctfclub.github.io/tags/2024/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://neuctfclub.github.io/tags/gm/</loc>
-    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>

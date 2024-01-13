@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 CTF Club</copyright>
-    <lastBuildDate>Tue, 02 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://neuctfclub.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024</title>
+      <link>https://neuctfclub.github.io/tags/2024/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/tags/2024/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>GM</title>
+      <link>https://neuctfclub.github.io/tags/gm/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuctfclub.github.io/tags/gm/</guid>
+      <description></description>
+      
+    </item>
+    
     <item>
       <title>2023</title>
       <link>https://neuctfclub.github.io/tags/2023/</link>
@@ -24,26 +44,6 @@
       <pubDate>Tue, 02 Jan 2024 00:00:00 +0000</pubDate>
       
       <guid>https://neuctfclub.github.io/tags/ctf/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>2024</title>
-      <link>https://neuctfclub.github.io/tags/2024/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://neuctfclub.github.io/tags/2024/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>GM</title>
-      <link>https://neuctfclub.github.io/tags/gm/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://neuctfclub.github.io/tags/gm/</guid>
       <description></description>
       
     </item>
